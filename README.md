@@ -1,4 +1,4 @@
-# uav-and-truck-distribution-
+# uav-and-truck-distribution
 2022电工杯B题
 
 程序中的附件根据题目自行处理即可
